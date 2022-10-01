@@ -7,3 +7,6 @@ artifacts
 
 #env vars
 .env
+
+#IDE
+.vscode
