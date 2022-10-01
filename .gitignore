@@ -1,0 +1,9 @@
+#node modules
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+#env vars
+.env
