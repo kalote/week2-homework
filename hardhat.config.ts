@@ -1,6 +1,7 @@
 import { HardhatUserConfig } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox";
 import { config as LoadEnv } from 'dotenv';
+import "./tasks/Voting";
 
 LoadEnv();
 
